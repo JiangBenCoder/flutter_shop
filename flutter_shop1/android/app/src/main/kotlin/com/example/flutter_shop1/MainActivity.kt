@@ -1,4 +1,4 @@
-package com.diyibox.flutter_shop1
+package com.example.flutter_shop1
 
 import android.os.Bundle
 
